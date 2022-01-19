@@ -1,0 +1,5 @@
+C:\Users\home\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfo.cs
+C:\Users\home\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.CoreCompileInputs.cache
